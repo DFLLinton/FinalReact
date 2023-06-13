@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FinalReact/static/css/main.f052f7f0.css",
+    "main.js": "/FinalReact/static/js/main.efa100bc.js",
+    "index.html": "/FinalReact/index.html",
+    "main.f052f7f0.css.map": "/FinalReact/static/css/main.f052f7f0.css.map",
+    "main.efa100bc.js.map": "/FinalReact/static/js/main.efa100bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f052f7f0.css",
+    "static/js/main.efa100bc.js"
+  ]
+}
